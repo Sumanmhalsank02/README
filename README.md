@@ -1,6 +1,6 @@
 ### Hey there, I am Suman S Mhalsank 😀
 
-I am an AI Enthusiast and I like to work on challenging problems!!!
+I am a Software Engineer and I like to work on challenging problems!!!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanmhalsank02)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/Sumanmhalsank02)
