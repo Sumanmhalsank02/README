@@ -1,6 +1,7 @@
 ### Hey there, I am Suman S Mhalsank 😀
 
-I am a Software Engineer and I like to work on challenging problems!!!
+I am a Computer Science graduate student from New Jersey Institute of Technology and I like to work on challenging problems!!!
+I have an extensive collection of GitHub projects available for review. I invite you to explore my repository to gain insights into my diverse range of work and contributions
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sumanmhalsank02)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/Sumanmhalsank02)
